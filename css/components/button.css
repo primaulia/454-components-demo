@@ -1,0 +1,20 @@
+.btn {
+  text-decoration: none;
+  color: white;
+  background: #adadad;
+  padding: 16px 32px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: #777;
+}
+
+.btn-primary {
+  background: hotpink;
+}
+
+.btn-secondary {
+  background: magenta;
+}

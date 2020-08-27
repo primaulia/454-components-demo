@@ -1,0 +1,31 @@
+.card-container {
+  display: flex;
+}
+
+.card-category {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url('../../images/breakfast.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 16px 0;
+  color: white;
+}
+
+.card-category h2 {
+  padding: 40px 0;
+  text-shadow: 1px 1px 1px rgba(10,10,10, 0.5);
+}
+
+.card-product {
+  display: flex;
+  align-items: center;
+  background: white;
+  box-shadow: 1px 1px 1px rgba(10, 10, 10, 0.1)
+}
+
+.card-product img {
+  height: 160px;
+  margin-right: 16px;
+}

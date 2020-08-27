@@ -1,0 +1,7 @@
+.container {
+  /* TODO put the content in the center */
+  margin: 0 auto;
+  width: 90%;
+  max-width: 960px;
+}
+
